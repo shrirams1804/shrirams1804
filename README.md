@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @shrirams1804
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Shriram S
+- 👀 I’m interested in python prgramming
+- 🌱 I’m currently learning django
+- 💞️ I’m looking to collaborate on django projects
+- 📫 How to reach me 
 
 <!---
 shrirams1804/shrirams1804 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
